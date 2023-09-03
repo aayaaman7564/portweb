@@ -4,7 +4,15 @@ import project3 from "../components/projectphotos/To Do project.png";
 import project4 from "../components/projectphotos/Weather.png";
 import project5 from "../components/projectphotos/download.jpg";
 import project6 from "../components/projectphotos/download (1).jpg";
+import project7 from "../components/projectphotos/fb clone.png";
 const ProjectData =[
+  {
+    imgsrc: project7,
+    title:"Facebook Clone",
+    text:"This is a full Stack App made with React js(frontend) and firebase(backend) which has feature of login through email and access their account. The most important feature is User Authentication.",
+    view:"https://aayaaman7564.github.io/fbclone/",
+    source:"https://github.com/aayaaman7564/fbclone"
+  },
   {
     imgsrc: project1,
     title:"Amazone Clone",

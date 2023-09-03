@@ -14,7 +14,7 @@ const Hero = () => {
             <p>I am a Full Stack Web Developer. To know More About me have a look at my resume and projects below.</p>
             <br></br>
             <div>
-                <a className="btn" href="https://drive.google.com/file/d/1d3llNBo3E-sFNTtRhecFlDtBp0NIDgt3/view?usp=sharing">Resume</a>
+                <a className="btn" href="https://drive.google.com/file/d/19VA_KSUgYeLabp9UcdKCl8OmpwFsf-Lg/view?usp=sharing">Resume</a>
                 <Link to="/Project" className=" btn btn-light">Project</Link>
             </div>
         </div>
