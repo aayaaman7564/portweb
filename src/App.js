@@ -1,18 +1,16 @@
 import React from "react";
-import Home from "./Routes/Home";
-import Project from "./Routes/Project";
-import Contact from "./Routes/contact";
-import {Route, Routes} from "react-router-dom";
-
-function App(){
-  return(
-    <>
-      <Routes>
-        <Route path="/" element={<Home />}/>
-        <Route path="/Project" element={<Project />}/>
-        <Route path="/Contact" element={<Contact />}/>
-      </Routes>
-    </>
-  );
+import Navigation from "../components/Navigation"
+import Hero from "../components/Hero";
+import Work from "../components/work";
+import Footer from "../components/footer";
+const Home = () =>{
+    return(
+        <div>
+            <Navigation/>
+            <Hero />
+            <Work />
+            <Footer />
+        </div>
+    );
 }
-export default App;
+export default Home;
