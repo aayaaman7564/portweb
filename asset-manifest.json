@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/portweb/static/css/main.e1a7eea7.css",
-    "main.js": "/portweb/static/js/main.51cdaaa6.js",
+    "main.js": "/portweb/static/js/main.876ab81e.js",
     "static/media/Amazon clone.png": "/portweb/static/media/Amazon clone.c3355e20a296bcd06322.png",
+    "static/media/fb clone.png": "/portweb/static/media/fb clone.b95867f6dbb3aa050c58.png",
     "static/media/To Do project.png": "/portweb/static/media/To Do project.738e0172eecc45506151.png",
     "static/media/Weather.png": "/portweb/static/media/Weather.3b1a22b399a835acd937.png",
     "static/media/digital clock.png": "/portweb/static/media/digital clock.657c744d3b5d460225d0.png",
     "static/media/download (1).jpg": "/portweb/static/media/download (1).94285b315d03d362b50d.jpg",
     "index.html": "/portweb/index.html",
     "main.e1a7eea7.css.map": "/portweb/static/css/main.e1a7eea7.css.map",
-    "main.51cdaaa6.js.map": "/portweb/static/js/main.51cdaaa6.js.map"
+    "main.876ab81e.js.map": "/portweb/static/js/main.876ab81e.js.map"
   },
   "entrypoints": [
     "static/css/main.e1a7eea7.css",
-    "static/js/main.51cdaaa6.js"
+    "static/js/main.876ab81e.js"
   ]
 }
